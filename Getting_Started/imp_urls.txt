@@ -1,0 +1,11 @@
+
+
+
+Wiki: -
+
+https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/1641152513/Kria+SOMs+Starter+Kits#KR260-Starter-Kit
+
+
+Course: -
+--------------
+https://www.amd.com/en/training/customer/adaptive-computing/customer-training/using-accelerated-applications-vision-ai-starter-kit-som.html

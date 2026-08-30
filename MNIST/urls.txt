@@ -7,3 +7,8 @@ https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network
 https://www.kaggle.com/code/imdevskp/digits-mnist-classification-using-cnn
 
 https://www.udemy.com/course/fpga-project-cnn-accelerator-for-digit-recognition/learn/lecture/50864915#overview
+
+
+Training dataset:-
+-------------------
+https://www.youtube.com/watch?v=IkqlBFeSmug

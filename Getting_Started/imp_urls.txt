@@ -9,3 +9,13 @@ https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/1641152513/Kria+SOMs+Start
 Course: -
 --------------
 https://www.amd.com/en/training/customer/adaptive-computing/customer-training/using-accelerated-applications-vision-ai-starter-kit-som.html
+
+
+Videos: -
+--------------
+https://www.youtube.com/watch?v=Ga3dbzconDU
+https://youtu.be/N6UBuat8f2U?si=AXyzXDWjj8p3ei_U
+
+Hackster:-
+--------------
+https://www.hackster.io/dsp2/create-a-custom-kria-kv260-accelerated-ml-application-54dca7

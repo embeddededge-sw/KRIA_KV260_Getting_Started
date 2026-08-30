@@ -8,11 +8,11 @@ https://www.kaggle.com/code/imdevskp/digits-mnist-classification-using-cnn
 
 https://www.udemy.com/course/fpga-project-cnn-accelerator-for-digit-recognition/learn/lecture/50864915#overview
 
+What is MNIST?
+--------------
+https://www.youtube.com/watch?v=SrT6QkQUH4Q
 
 Training dataset:-
 -------------------
 https://www.youtube.com/watch?v=IkqlBFeSmug
-
-https://www.youtube.com/watch?v=SrT6QkQUH4Q
-
 https://www.youtube.com/watch?v=NS2FI6vR3BY

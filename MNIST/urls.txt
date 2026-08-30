@@ -12,3 +12,7 @@ https://www.udemy.com/course/fpga-project-cnn-accelerator-for-digit-recognition/
 Training dataset:-
 -------------------
 https://www.youtube.com/watch?v=IkqlBFeSmug
+
+https://www.youtube.com/watch?v=SrT6QkQUH4Q
+
+https://www.youtube.com/watch?v=NS2FI6vR3BY

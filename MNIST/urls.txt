@@ -1,0 +1,9 @@
+
+
+https://github.com/NehaCkumari/MNIST-Handwritten-Digit-Recognition-using-CNN
+
+https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/
+
+https://www.kaggle.com/code/imdevskp/digits-mnist-classification-using-cnn
+
+https://www.udemy.com/course/fpga-project-cnn-accelerator-for-digit-recognition/learn/lecture/50864915#overview

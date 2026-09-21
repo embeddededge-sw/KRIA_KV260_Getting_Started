@@ -1,6 +1,7 @@
 
 Getting Started: -
 --------------------
+https://xilinx.github.io/kria-apps-docs/kv260/2022.1/build/html/docs/linux_boot.html
 https://xilinx.github.io/kria-apps-docs/kv260/2021.1/linux_boot/petalinux_2021.1/build/html/docs/sdcard.html
 
 Flash images: -

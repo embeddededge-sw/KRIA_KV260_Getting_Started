@@ -7,6 +7,7 @@ https://xilinx.github.io/kria-apps-docs/kv260/2021.1/linux_boot/petalinux_2021.1
 Flash images: -
 -------------------
 https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/1641152513/Kria+SOMs+Starter+Kits#Embedded-Linux-(Yocto)
+https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/1641152513/Kria+SOMs+Starter+Kits#KV260-Starter-Kit
 
 Flashing uSD card: -
 --------------------

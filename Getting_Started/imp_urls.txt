@@ -1,21 +1,41 @@
 
+Getting Started: -
+--------------------
+https://xilinx.github.io/kria-apps-docs/kv260/2021.1/linux_boot/petalinux_2021.1/build/html/docs/sdcard.html
 
+Flash images: -
+-------------------
+https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/1641152513/Kria+SOMs+Starter+Kits#Embedded-Linux-(Yocto)
+
+Flashing uSD card: -
+--------------------
+https://documentation.ubuntu.com/core/how-to-guides/deploy-an-image/install-on-amd/#write-the-ubuntu-core-image-to-the-microsd-card
 
 Wiki: -
-
+--------
 https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/1641152513/Kria+SOMs+Starter+Kits#KR260-Starter-Kit
-
+https://xilinx.github.io/kria-apps-docs/creating_applications/2022.1/build/html/docs/kria_vitis_acceleration_flow/running-on-board.html
 
 Course: -
 --------------
 https://www.amd.com/en/training/customer/adaptive-computing/customer-training/using-accelerated-applications-vision-ai-starter-kit-som.html
 
+Github links: -
+----------------
+https://github.com/Xilinx/Xilinx_Kria_KV260_Workshop
 
 Videos: -
 --------------
 https://www.youtube.com/watch?v=Ga3dbzconDU
 https://youtu.be/N6UBuat8f2U?si=AXyzXDWjj8p3ei_U
+https://www.youtube.com/watch?v=wi88mkQ1ERE
 
 Hackster:-
 --------------
 https://www.hackster.io/dsp2/create-a-custom-kria-kv260-accelerated-ml-application-54dca7
+https://www.hackster.io/whitney-knitter/linux-development-on-the-kria-kv260-with-petalinux-2021-2-65137a
+
+Application:- 
+-------------
+https://dgway.com/blog_E/2024/08/02/seamless-custom-rtl-implementation-on-kr260-to-accelerate-applications/
+https://www.amd.com/en/training/customer/adaptive-computing/customer-training/using-accelerated-applications-vision-ai-starter-kit-som.html

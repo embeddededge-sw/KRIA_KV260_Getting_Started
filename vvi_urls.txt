@@ -11,3 +11,4 @@ https://github.com/Xilinx/Vitis-Tutorials
 
 
 2. 
+https://xilinx.github.io/Vitis-AI/3.0/html/docs/quickstart/mpsoc.html#setup-the-target

@@ -1,1 +1,2 @@
 
+Copy .bit, .hwh and /bmp folder to target board(KV260). Then follow steps mentioned in "Mnist_steps.txt".

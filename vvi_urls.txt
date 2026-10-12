@@ -18,3 +18,7 @@ https://www.hackster.io/LogicTronix/yolov3-pytorch-quantization-compilation-and-
 
 4. Building DTBO
 https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842279/Build+Device+Tree+Blob
+
+
+5. Generation of firmware binaries: -
+https://xilinx.github.io/kria-apps-docs/kv260/2022.1/build/html/docs/generating_custom_firmware.html

@@ -22,3 +22,6 @@ https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842279/Build+Device+Tree
 
 5. Generation of firmware binaries: -
 https://xilinx.github.io/kria-apps-docs/kv260/2022.1/build/html/docs/generating_custom_firmware.html
+
+6. Thesis option 4_1 url: -
+https://github.com/AISeQLab/BASIC_SOC_COURSE---Real-time_Handwritten_Digit_Recognition_on_FPGA/tree/main/Step-by-Step_Tutorial
